@@ -1,0 +1,14 @@
+C:\Users\User\Documents\programirane\Sring\dom-ot-tetradkata\bin\Debug\net8.0\dom-ot-tetradkata.exe
+C:\Users\User\Documents\programirane\Sring\dom-ot-tetradkata\bin\Debug\net8.0\dom-ot-tetradkata.deps.json
+C:\Users\User\Documents\programirane\Sring\dom-ot-tetradkata\bin\Debug\net8.0\dom-ot-tetradkata.runtimeconfig.json
+C:\Users\User\Documents\programirane\Sring\dom-ot-tetradkata\bin\Debug\net8.0\dom-ot-tetradkata.dll
+C:\Users\User\Documents\programirane\Sring\dom-ot-tetradkata\bin\Debug\net8.0\dom-ot-tetradkata.pdb
+C:\Users\User\Documents\programirane\Sring\dom-ot-tetradkata\obj\Debug\net8.0\dom-ot-tetradkata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programirane\Sring\dom-ot-tetradkata\obj\Debug\net8.0\dom-ot-tetradkata.AssemblyInfoInputs.cache
+C:\Users\User\Documents\programirane\Sring\dom-ot-tetradkata\obj\Debug\net8.0\dom-ot-tetradkata.AssemblyInfo.cs
+C:\Users\User\Documents\programirane\Sring\dom-ot-tetradkata\obj\Debug\net8.0\dom-ot-tetradkata.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programirane\Sring\dom-ot-tetradkata\obj\Debug\net8.0\dom-ot-tetradkata.dll
+C:\Users\User\Documents\programirane\Sring\dom-ot-tetradkata\obj\Debug\net8.0\refint\dom-ot-tetradkata.dll
+C:\Users\User\Documents\programirane\Sring\dom-ot-tetradkata\obj\Debug\net8.0\dom-ot-tetradkata.pdb
+C:\Users\User\Documents\programirane\Sring\dom-ot-tetradkata\obj\Debug\net8.0\dom-ot-tetradkata.genruntimeconfig.cache
+C:\Users\User\Documents\programirane\Sring\dom-ot-tetradkata\obj\Debug\net8.0\ref\dom-ot-tetradkata.dll
